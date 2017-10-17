@@ -1,7 +1,4 @@
 #!/bin/bash
-#date=20160307
-#version=0.4
-#inotifywait de jiandan shiyong
 
 Usage() {
 	echo "   Usage:./inotify.sh  stop
